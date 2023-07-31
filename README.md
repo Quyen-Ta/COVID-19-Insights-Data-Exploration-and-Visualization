@@ -1,4 +1,4 @@
-# COVID-19-Insights-Data-Analysis-and-Visualization
+# COVID-19-Insights-Data-Exploration-and-Visualization
 
 ## Project Overview
 This project involves analyzing COVID-19 data from Our Word in Data to gain insights into the infection and vaccination rates across different countries and continents. The analysis aims to understand the impact of the pandemic and visualize the data trends using Tableau.
